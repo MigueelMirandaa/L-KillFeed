@@ -2,7 +2,6 @@
 A customizable kill feed system for FiveM servers that displays death notifications in a clean and modern style.
 
 ## Preview
-[L-KillFeed Preview](https://www.youtube.com/watch?v=W3btCyHdGF0)
 -> https://www.youtube.com/watch?v=W3btCyHdGF0
 
 ## Features
