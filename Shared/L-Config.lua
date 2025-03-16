@@ -1,0 +1,2 @@
+-- NO CONFIG!!!!!!!!!!!! 
+-- JUST BE HAPPY AND HAVE SEX
